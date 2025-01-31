@@ -1,0 +1,3 @@
+[submodule "SpringSecurityBasics"]
+	path = SpringSecurityBasics
+	url = .\\SpringSecurityBasics\\
