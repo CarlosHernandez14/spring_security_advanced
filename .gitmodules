@@ -3,4 +3,4 @@
 	url = https://github.com/CarlosHernandez14/spring_security_basics.git
 [submodule "EazyBank"]
 	path = EazyBank
-	url = .\\EazyBank\\
+	url = https://github.com/CarlosHernandez14/eazy_bank.git
