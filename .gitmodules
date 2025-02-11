@@ -1,3 +1,6 @@
 [submodule "SpringSecurityBasics"]
 	path = SpringSecurityBasics
 	url = https://github.com/CarlosHernandez14/spring_security_basics.git
+[submodule "EazyBank"]
+	path = EazyBank
+	url = .\\EazyBank\\
